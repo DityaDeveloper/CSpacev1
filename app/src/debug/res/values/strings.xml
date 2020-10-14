@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Coworking Space Depok</string>
+    <string name="title_activity_maps">PETA</string>
+    <string name="menu_settings">Settings</string>
+    <string name="JudulHome">Coworking Space Depok</string>
+    <string name="copyright">Created By. Syahru Rido - 2020</string>
+    <string name="header_home1">Selamat Datang</string>
+    <string name="header_home2">Coworking Space Location</string>
+
+    <!-- nama tombol -->
+    <string name="ic_maps">Lokasi Coworking Space</string>
+    <string name="ic_home"> Detail Coworking Space</string>
+    <string name="ic_about">Tentang Aplikasi</string>
+    <string name="ic_exit">Tentang Developer</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="jeniskelamin">
+        <item>Code Margonda </item>
+        <item>Depok Coworking</item>
+        <item>Digital Innovation Lounge</item>
+        <item>IoT Workspace Depok</item>
+        <item>Juanda Coworking Space</item>
+    </string-array>
+
+    <!-- String di Detail page-->
+    <string name="ulasan">Lihat Ulasan</string>
+    <string name="iulasan">Kirim Ulasan</string>
+    <string name="mulasan">Isi Ulasan Kamu Disini !</string>
+    <string name="pesan">Ulasan ini bersifat universal atau siapa saja bisa memberikan ulasan. Mohon gunakan kalimat yang positif dan membangun, Terima Kasih :)</string>
+
+</resources>

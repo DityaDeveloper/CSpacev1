@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".AboutActivitfty">
+    <!-- Letak layout Header -->
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <ImageView
+                android:id="@+id/iv_detail1"
+                android:layout_width="80dp"
+                android:layout_height="75dp"
+                android:background="@drawable/coworking" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:fontFamily="monospace"
+                android:text="Coworking"
+                android:textAllCaps="true"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Space"
+                android:textAllCaps="true"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+
+
+            <ImageView
+                android:id="@+id/iv_detail3"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:background="@drawable/tama" />
+
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="80dp"
+            android:layout_marginBottom="150dp"
+            android:lineSpacingMultiplier="1.5"
+            android:text="Coworking Space Apps adalah aplikasi sederhana berbasis location based service untuk melakukan pemetaan terhadap objek coworking space guna mempermudah pengguna untuk melakukan perjalanan pada objek "
+            android:textAlignment="center"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+    </LinearLayout>
+    </LinearLayout>
+    <!-- Letak layout kaki -->
+
+
+</RelativeLayout>

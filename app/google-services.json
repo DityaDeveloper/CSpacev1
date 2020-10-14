@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "256546874748",
+    "firebase_url": "https://cspacev1.firebaseio.com",
+    "project_id": "cspacev1",
+    "storage_bucket": "cspacev1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256546874748:android:a49f375d0ffcdef88eb0f9",
+        "android_client_info": {
+          "package_name": "aiproject.tama.cspacev1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256546874748-f3pv500u83a2giqpubk4ni7rieuk0967.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "aiproject.tama.cspacev1",
+            "certificate_hash": "b2ab3c6acd32e0e2dea4c4b17fe29531684064e7"
+          }
+        },
+        {
+          "client_id": "256546874748-k0amo7e9ri8bst11itpgukotc5pu4phs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCPveVVox9y7QGuFw1iUowjrgiFt2bk3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256546874748-k0amo7e9ri8bst11itpgukotc5pu4phs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
